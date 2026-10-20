@@ -1,0 +1,9 @@
+{
+  "google_api_key": "TU_CLAVE_GOOGLE_PLACES",
+  "paginas_max": 3,
+  "puntaje_minimo": 4,
+  "remitente_nombre": "TU_NOMBRE",
+  "remitente_descripcion": "desarrollador web freelance",
+  "remitente_contacto": "TU_CORREO_O_WHATSAPP",
+  "servicios": "diseño de páginas web y apps a medida"
+}

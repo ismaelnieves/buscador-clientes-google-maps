@@ -1,0 +1,13 @@
+# Clave de Google Places: nunca subir
+config.json
+
+# Resultados reales (datos de negocios)
+clientes-*.xlsx
+~$*
+
+# Python y PyInstaller
+__pycache__/
+*.exe
+dist/
+build/
+*.spec
